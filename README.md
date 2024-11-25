@@ -1,7 +1,7 @@
 # Northwind_Project
 
 # Notrhwind SQL Queries
-This repository contains SQL queries on **Northwind** databases. The aim is to demonstrate database querying techniques and create a guide for those who want to learn.
+This repository contains SQL queries on **Northwind** database. The aim is to demonstrate database querying techniques and create a guide for those who want to learn.
 
 ## Databases Used
 1. **Northwind** : Contains tables representing key commercial business processes.
